@@ -36,5 +36,5 @@
 - Digital Lego design/rendering/modeling
 - CO2 laser cutting/engraving
 - 3D printing
-- Arduino Programming <img style="vertical-alighn: middle;" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
+- Arduino Programming ![image](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
