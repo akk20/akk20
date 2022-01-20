@@ -13,8 +13,6 @@
 ## 📜 Languarges/IDEs/Frameworks I'm familar with
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" /> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white" /> <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white" /> <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white"/> <img src="/assets/badges/MATLAB_Badge.svg"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akk20)](https://github.com/akk20/github-readme-stats)
-
 ## ✏️ Design Software I Use
 <img src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white" /> <img src="/assets/badges/LightBurn_Badge.svg"/> <img src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white" /> <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" /> <img src="/assets/badges/SolidWorks_Badge.svg"/> <img src="/assets/badges/Cura_Badge.svg"/>
 
