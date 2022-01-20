@@ -15,7 +15,7 @@
 - How to make moblie apps
 
 ### Languarges I'm familar with
-- C++
+- C++ <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" />
 - Python
 - mySQL
 - Assembly
