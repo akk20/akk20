@@ -12,7 +12,7 @@
 - Javascript
     - React.js
     - Three.js
-- How to make moblie app
+- How to make moblie apps
 
 ### Languarges I'm familar with
 - C++
