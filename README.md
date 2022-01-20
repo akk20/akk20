@@ -5,10 +5,10 @@
 ----
 
 # About Me
-🏠 Hometown: [High Point](https://www.highpointnc.gov/){:target="_blank"} , North Carolina  
+🏠 Hometown: <a href="https://www.highpointnc.gov/" target="_blank">High Point</a> , North Carolina  
 🏫 University: [High Point University](https://www.highpoint.edu/)  
 📚 Major: [B.S. Computer Science](https://www.highpoint.edu/computerscience/) (Cybersecurity Concentration)  
-🎮 Favorite Game: [Battlefield 4](https://www.ea.com/games/battlefield/battlefield-4) (PS4)  
+🎮 Favorite Game: [Battlefield 4](https://www.ea.com/games/battlefield/battlefield-4) (PS4) 
 
 ## 📜 Languarges/IDEs/Frameworks I'm familar with
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" /> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white" /> <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white" /> <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
