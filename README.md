@@ -14,10 +14,14 @@
     - Three.js
 - How to make moblie apps
 
-### Languarges I'm familar with
+### Languarges/IDEs/Frameworks I'm familar with
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />
-- Python
+
+<img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white" />
+
+<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white" />
+
 - mySQL
 - Assembly
 - MATLAB
