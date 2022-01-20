@@ -23,6 +23,8 @@
 <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white" />
 <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" />
 
+https://github-readme-stats.vercel.app/api/top-langs/?username={akk20}
+
 - mySQL
 - Assembly
 - MATLAB
