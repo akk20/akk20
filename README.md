@@ -5,8 +5,7 @@
 ----
 
 # About Me
-<!-- 🏠 Hometown: <a href="https://www.highpointnc.gov/" target="_blank">High Point</a> , North Carolina   -->
-🏠 Hometown: [High Point](https://www.highpointnc.gov/) , North Carolina  
+🏠 Hometown: [High Point](https://www.highpointnc.gov/), North Carolina  
 🏫 University: [High Point University](https://www.highpoint.edu/)  
 📚 Major: [B.S. Computer Science](https://www.highpoint.edu/computerscience/) (Cybersecurity Concentration)  
 🎮 Favorite Game: [Battlefield 4](https://www.ea.com/games/battlefield/battlefield-4) (PS4) 
@@ -29,8 +28,6 @@
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" /> <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" /> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /> <img src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white" /> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" /> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" /> <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" />
 
 <img src="https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white" /> <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" /> <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" /> <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" /> <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" />
-
-
 
 ----
 
