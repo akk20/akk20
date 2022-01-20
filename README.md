@@ -7,7 +7,7 @@
 
 - - - -
 
-### About Me
+# About Me
 🏠 Hometown: High Point, North Carolina
 🏫 University: High Point University
 📜 Major: B.S. Computer Science (Cybersecurity Concentration)
