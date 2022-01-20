@@ -37,5 +37,5 @@
 - CO2 laser cutting/engraving
 - 3D printing
 - Arduino Programming
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" align="center" />
 
