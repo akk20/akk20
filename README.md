@@ -22,7 +22,9 @@
 
 
 ### Design Software I Use
-<div style="position: relative, text-align: center">
+
+
+<div style="display: flex; justify-content: center;">
 <img src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white" /> <img src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white" /> <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" />
 </div>
 
