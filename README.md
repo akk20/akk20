@@ -23,11 +23,11 @@
 <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white" />
 <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" />
 
-https://github-readme-stats.vercel.app/api/top-langs/?username={akk20}
-
 - mySQL
 - Assembly
 - MATLAB
+
+![image](https://github-readme-stats.vercel.app/api/top-langs/?username={akk20})
 
 ### Design Software I Use
 <img src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white" />
@@ -38,8 +38,5 @@ https://github-readme-stats.vercel.app/api/top-langs/?username={akk20}
 - Digital Lego design/rendering/modeling
 - CO2 laser cutting/engraving
 - 3D printing
-
-<h4 style="align: center, vertical-align: middle">
-    Arduino Programming <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
-</h4>
+- Arduino Programming
 
