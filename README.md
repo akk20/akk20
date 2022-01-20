@@ -27,7 +27,7 @@
 - Assembly
 - MATLAB
 
-![image](https://github-readme-stats.vercel.app/api/top-langs/?username={akk20})
+![image](https://github-readme-stats.vercel.app/api/top-langs/?username=akk20)
 
 ### Design Software I Use
 <img src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white" />
