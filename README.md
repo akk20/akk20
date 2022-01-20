@@ -34,11 +34,11 @@
 ----
 
 ## 📋 What I want to learn
-- Javascript
+- [ ] Javascript
     - [ ] React.js
     - [ ] Three.js
 - [ ] Django
-- LAMP stack development  
+- [ ] LAMP stack development  
     - [x] Linux
     - [ ] Apache
     - [x] mySQL
