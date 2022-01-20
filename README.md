@@ -8,10 +8,10 @@
 - - - -
 
 # About Me
-🏠 Hometown: High Point, North Carolina  
-🏫 University: High Point University  
-📜 Major: B.S. Computer Science (Cybersecurity Concentration)  
-🎮 Favorite Game: Battlefield 4 (PS4)
+🏠 Hometown: [High Point](https://www.highpointnc.gov/) , North Carolina  
+🏫 University: [High Point University](https://www.highpoint.edu/)  
+📜 Major: [B.S. Computer Science](https://www.highpoint.edu/computerscience/) (Cybersecurity Concentration)  
+🎮 Favorite Game: [Battlefield 4](https://www.ea.com/games/battlefield/battlefield-4) (PS4)  
 
 
 ## 📋 What I want to learn
@@ -36,9 +36,9 @@
 # 💡 Other interests/hobbies
 - Digital Lego design/rendering/modeling
 - CO2 laser cutting/engraving
-- 3D printing
+- 3D printing (Ender 3 Pro)
 - Arduino Programming
 
 # 💬 Social
-[![Markdown clickable image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white "Click me!")](https://www.linkedin.com/in/aidankelley/)
-[![Markdown clickable image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white "Click me!")](https://www.instagram.com/aidankelley5/)
+[![Markdown clickable image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white "aidankelley")](https://www.linkedin.com/in/aidankelley/)
+[![Markdown clickable image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white "aidankelley5")](https://www.instagram.com/aidankelley5/)
