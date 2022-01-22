@@ -10,7 +10,7 @@
 📚 Major: [B.S. Computer Science](https://www.highpoint.edu/computerscience/) (Cybersecurity Concentration)  
 🎮 Favorite Game: [Battlefield 4](https://www.ea.com/games/battlefield/battlefield-4) (PS4) 
 
-## 📜 Languarges/IDEs/Frameworks I'm familar with
+## 📜 Languarges/IDEs/Frameworks I'm Familar With
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" /> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white" /> <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white" /> <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white"/> <img src="/assets/badges/MATLAB_Badge.svg"/>
 
 ## ✏️ Design Software I Use
@@ -26,7 +26,7 @@
 
 ----
 
-## 📋 What I want to learn
+## 📋 What I Want to Learn
 - [ ] Javascript
     - [ ] React.js
     - [ ] Three.js
@@ -47,7 +47,7 @@
 
 ----
 
-# 💬 Social
+# 💬 Social/Other
 [![Markdown clickable image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white "aidankelley")](https://www.linkedin.com/in/aidankelley/)
 [![Markdown clickable image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white "aidankelley5")](https://www.instagram.com/aidankelley5/)
 [![Markdown clickable image](/assets/badges/Thingiverse_Badge.svg "Tactical_Geek")](https://www.thingiverse.com/tactical_geek/designs)
