@@ -6,39 +6,13 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="20.67388mm"
    height="7.3080001mm"
    viewBox="0 0 20.67388 7.3080001"
    version="1.1"
-   id="svg8"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
-   sodipodi:docname="MATLAB_Badge.svg"
-   inkscape:export-filename="C:\Users\Aidan\Desktop\badges\Solidworks_Badge.png"
-   inkscape:export-xdpi="96"
-   inkscape:export-ydpi="96">
+   id="svg8">
   <defs
      id="defs2" />
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="8.3582185"
-     inkscape:cx="38.171751"
-     inkscape:cy="3.7331093"
-     inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
-     inkscape:document-rotation="0"
-     showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -47,13 +21,11 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-220.09076,-182.28716)">
     <rect
@@ -71,7 +43,6 @@
        x="225.58409"
        y="186.94133"
        id="text883"><tspan
-         sodipodi:role="line"
          x="225.58409"
          y="186.94133"
          style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:2.79449px;font-family:Arial;-inkscape-font-specification:'Arial Heavy';fill:#ffffff;stroke-width:0.264583"
