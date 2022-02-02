@@ -11,15 +11,21 @@
 🎮 Favorite Game: [Battlefield 4](https://www.ea.com/games/battlefield/battlefield-4) (PS4) 
 
 ## 📜 Languarges/IDEs/Frameworks I'm Familar With
-[![Markdown clickable image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white "C++")]([cpp])
+[![Markdown clickable image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white "C++")](https://en.wikipedia.org/wiki/C%2B%2B)
 [![Markdown clickable image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen "Python")](https://www.python.org/)
-<!-- <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />  -->
-<!-- <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />  -->
+[![Markdown clickable image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white "MySQL")](https://www.mysql.com/)
+[![Markdown clickable image](https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white "Atom")](https://atom.io/)
+[![Markdown clickable image](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white "PowerShell")](https://docs.microsoft.com/en-us/powershell/)
+[![Markdown clickable image](hhttps://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white "Arduino IDE")](https://www.arduino.cc/en/software)
+[![Markdown clickable image](/assets/badges/MATLAB_Badge.png "MATLAB")](https://www.mathworks.com/products/matlab.html)
+
+<!-- <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" /> 
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white" /> 
 <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white"/> 
-<img src="/assets/badges/MATLAB_Badge.png"/>
+<img src="/assets/badges/MATLAB_Badge.png"/> -->
 
 ## ✏️ Design Software I Use
 <img src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white" /> <img src="/assets/badges/LightBurn_Badge.svg"/> <img src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white" /> <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" /> <img src="/assets/badges/SolidWorks_Badge.svg"/> <img src="/assets/badges/Cura_Badge.svg" /> <img src="/assets/badges/EasyEDA_Badge.svg" /> 
@@ -59,7 +65,3 @@
 [![Markdown clickable image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white "aidankelley")](https://www.linkedin.com/in/aidankelley/)
 [![Markdown clickable image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white "aidankelley5")](https://www.instagram.com/aidankelley5/)
 [![Markdown clickable image](/assets/badges/Thingiverse_Badge.svg "Tactical_Geek")](https://www.thingiverse.com/tactical_geek/designs)
-
-
-<!-- Variables for badges -->
-[cpp]: https://en.wikipedia.org/wiki/C%2B%2B
