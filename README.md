@@ -16,7 +16,7 @@
 [![Markdown clickable image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white "MySQL")](https://www.mysql.com/)
 [![Markdown clickable image](https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white "Atom")](https://atom.io/)
 [![Markdown clickable image](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white "PowerShell")](https://docs.microsoft.com/en-us/powershell/)
-[![Markdown clickable image](hhttps://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white "Arduino IDE")](https://www.arduino.cc/en/software)
+[![Markdown clickable image](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white "Arduino IDE")](https://www.arduino.cc/en/software)
 [![Markdown clickable image](/assets/badges/MATLAB_Badge.png "MATLAB")](https://www.mathworks.com/products/matlab.html)
 
 <!-- <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> 
