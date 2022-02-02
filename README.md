@@ -12,7 +12,7 @@
 
 ## 📜 Languarges/IDEs/Frameworks I'm Familar With
 [![Markdown clickable image]([cpp] "C++")](https://en.wikipedia.org/wiki/C%2B%2B)
-[![Markdown clickable image]("https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" "Python")](https://www.python.org/)
+[![Markdown clickable image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen "Python")](https://www.python.org/)
 <!-- <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />  -->
 <!-- <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />  -->
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /> 
@@ -62,4 +62,4 @@
 
 
 <!-- Variables for badges -->
-[cpp]: "https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"
+[cpp]: https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white
