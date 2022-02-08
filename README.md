@@ -5,7 +5,7 @@
 ----
 
 # About Me
-🏠 Hometown: [High Point](https://www.highpointnc.gov/), [North Carolina](https://www.nc.gov/) 
+🏠 Hometown: [High Point](https://www.highpointnc.gov/), [North Carolina](https://www.nc.gov/)  
 🏫 University: [High Point University](https://www.highpoint.edu/)  
 📚 Major: [B.S. Computer Science](https://www.highpoint.edu/computerscience/) (Cybersecurity Concentration)  
 🎮 Favorite Game: [Battlefield 4](https://www.ea.com/games/battlefield/battlefield-4) [(Playstation)](https://www.playstation.com/en-us/)
