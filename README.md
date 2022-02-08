@@ -18,6 +18,7 @@
 [![Markdown clickable image](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white "PowerShell")](https://docs.microsoft.com/en-us/powershell/)
 [![Markdown clickable image](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white "Arduino IDE")](https://www.arduino.cc/en/software)
 [![Markdown clickable image](/assets/badges/MATLAB_Badge.png "MATLAB")](https://www.mathworks.com/products/matlab.html)
+[![Markdown clickable image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white "HTML5")](https://html.com/html5/)
 
 <!-- <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" /> 
