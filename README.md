@@ -40,9 +40,19 @@
 
 
 ## 🔧 Other Things/Tools I Use
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" /> <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" /> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" /> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" /> <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" />
+[![Markdown clickable image](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white "Arduino")](https://www.arduino.cc/)
+[![Markdown clickable image](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white "Raspberry Pi")](https://www.raspberrypi.org/)
+[![Markdown clickable image](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white "Discord")](https://discord.com/)
+[![Markdown clickable image](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white "Slack")](https://slack.com/)
+[![Markdown clickable image](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white "Google Cloud")](https://cloud.google.com/)
+[![Markdown clickable image](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white "Google Sheets")](https://www.google.com/sheets/about/)
 
-<img src="https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white" /> <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" /> <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" /> <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" /> <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" /> <img src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white" />
+[![Markdown clickable image](https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white "Microsoft Access")](https://www.microsoft.com/en-us/microsoft-365/access)
+[![Markdown clickable image](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white "Microsoft Excel")](https://www.microsoft.com/en-us/microsoft-365/excel)
+[![Markdown clickable image](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white "Microsoft Office")](https://www.microsoft.com/en-us/microsoft-365)
+[![Markdown clickable image](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white "Microsoft PowerPoint")](https://www.microsoft.com/en-us/microsoft-365/powerpoint)
+[![Markdown clickable image](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white "Microsoft Word")](https://www.microsoft.com/en-us/microsoft-365/word)
+[![Markdown clickable image](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white "Slack")](https://www.microsoft.com/en-us/microsoft-teams/group-chat-software)
 
 ----
 
