@@ -5,10 +5,10 @@
 ----
 
 # About Me
-🏠 Hometown: [High Point](https://www.highpointnc.gov/), North Carolina  
+🏠 Hometown: [High Point](https://www.highpointnc.gov/), [North Carolina](https://www.nc.gov/) 
 🏫 University: [High Point University](https://www.highpoint.edu/)  
 📚 Major: [B.S. Computer Science](https://www.highpoint.edu/computerscience/) (Cybersecurity Concentration)  
-🎮 Favorite Game: [Battlefield 4](https://www.ea.com/games/battlefield/battlefield-4) (PS4) 
+🎮 Favorite Game: [Battlefield 4](https://www.ea.com/games/battlefield/battlefield-4) [(Playstation)](https://www.playstation.com/en-us/)
 
 ## 📜 Languarges/IDEs/Frameworks I'm Familar With
 [![Markdown clickable image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white "C++")](https://en.wikipedia.org/wiki/C%2B%2B)
