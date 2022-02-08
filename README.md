@@ -42,12 +42,13 @@
 - [ ] Django
 - [ ] LAMP stack development  
     - [ ] Linux
-    - [ ] Apache
-        - [x] HTML5
-        - [x] CSS
-        - [ ] PHP   
+    - [ ] Apache  
     - [x] mySQL
     - [ ] PHP
+- [ ] Other
+    - [x] HTML5
+    - [x] CSS
+    - [ ] PHP 
 
 ----
 
