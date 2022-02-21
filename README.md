@@ -69,7 +69,6 @@
 - [ ] Other
     - [x] HTML5
     - [x] CSS
-    - [ ] PHP 
 
 ----
 
