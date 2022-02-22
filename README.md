@@ -90,6 +90,4 @@
 [![Markdown clickable image](/assets/badges/Thingiverse_Badge.svg "Tactical_Geek")](https://www.thingiverse.com/tactical_geek/designs)
 
 
-<div align="center">
-    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akk20&theme=dark)](https://git.io/streak-stats)
-</div>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akk20&theme=dark)](https://git.io/streak-stats)
