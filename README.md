@@ -1,6 +1,7 @@
 <h1 align="center">
     Hey there! I'm Aidan. 👋
 </h1>
+<img src="https://komarev.com/ghpvc/?username=akk20&style=flat-square&color=blue" alt=""/>
 
 ----
 
