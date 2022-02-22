@@ -67,7 +67,7 @@
     - [x] mySQL
     - [ ] PHP
 - [ ] Other
-    - [x] HTML5
+    - [x] HTML
     - [x] CSS
     - [ ] Rust
 
