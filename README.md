@@ -89,4 +89,7 @@
 [![Markdown clickable image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white "aidankelley5")](https://www.instagram.com/aidankelley5/)
 [![Markdown clickable image](/assets/badges/Thingiverse_Badge.svg "Tactical_Geek")](https://www.thingiverse.com/tactical_geek/designs)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akk20&theme=dark)](https://git.io/streak-stats)
+
+<div align="center">
+    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akk20&theme=dark)](https://git.io/streak-stats)
+</div>
