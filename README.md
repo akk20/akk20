@@ -65,7 +65,7 @@
     - [ ] Three.js
 - [ ] Django
 - [ ] LAMP stack development  
-    - [ ] Linux
+    - [x] Linux
     - [ ] Apache  
     - [x] mySQL
     - [ ] PHP
