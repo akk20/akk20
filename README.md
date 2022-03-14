@@ -73,6 +73,7 @@
     - [x] HTML
     - [x] CSS
     - [ ] Rust
+    - [ ] Ruby
 
 ----
 
