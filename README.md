@@ -61,6 +61,7 @@
 - [ ] Javascript
     - [ ] React.js
     - [ ] Three.js
+    - [ ] Node.js
 - [ ] Django
 - [ ] LAMP stack development  
     - [x] Linux
@@ -72,6 +73,7 @@
     - [x] CSS
     - [ ] Rust
     - [ ] Ruby
+    - [ ] .NET
 
 ----
 
@@ -79,7 +81,7 @@
 - Digital Lego design/rendering/modeling
 - CO2 laser cutting/engraving
 - 3D printing (Ender 3 Pro)
-- Arduino Programming
+- Arduino and ESP32 Programming
 
 ----
 
