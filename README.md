@@ -68,7 +68,7 @@
 - [x] LAMP stack development
     - [x] Linux
     - [x] Apache  
-    - [x] mySQL
+    - [x] MySQL
     - [x] PHP
 - [ ] MERN stack development
     - [x] MySQL
