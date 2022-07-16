@@ -59,15 +59,22 @@
 
 ## 📋 What I Want to Learn
 - [ ] Javascript
-    - [ ] React.js
+    - [ ] Typescript
+    - [x] React.js
+    - [x] Node.js
     - [ ] Three.js
     - [ ] Node.js
 - [ ] Django
-- [ ] LAMP stack development  
+- [ ] LAMP stack development
     - [x] Linux
-    - [ ] Apache  
+    - [x] Apache  
     - [x] mySQL
-    - [ ] PHP
+    - [x] PHP
+- [ ] MERN stack development
+    - [x] MySQL
+    - [ ] Express  
+    - [x] React
+    - [x] Node
 - [ ] Other
     - [x] HTML
     - [x] CSS
