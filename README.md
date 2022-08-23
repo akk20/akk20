@@ -13,8 +13,8 @@
 
 ## 📜 Languarges/IDEs/Frameworks I'm Familar With
 [![Markdown clickable image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white "C++")](https://en.wikipedia.org/wiki/C%2B%2B)
-[![Markdown clickable image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E "JavaScript")]([https://en.wikipedia.org/wiki/C%2B%2B](https://www.javascript.com/)
-[![Markdown clickable image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white "TypeScript")]([https://en.wikipedia.org/wiki/C%2B%2B](https://www.typescriptlang.org/)
+[![Markdown clickable image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E "JavaScript")](https://en.wikipedia.org/wiki/C%2B%2B](https://www.javascript.com/)
+[![Markdown clickable image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white "TypeScript")](https://en.wikipedia.org/wiki/C%2B%2B](https://www.typescriptlang.org/)
 [![Markdown clickable image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen "Python")](https://www.python.org/)
 [![Markdown clickable image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white "MySQL")](https://www.mysql.com/)
 [![Markdown clickable image](https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white "Atom")](https://atom.io/)
