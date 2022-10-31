@@ -69,6 +69,8 @@
     - [x] Node.js
     - [ ] Three.js
 - [ ] Django
+- [ ] Flask
+- [ ] FastAPI
 - [x] LAMP stack development
     - [x] Linux
     - [x] Apache  
