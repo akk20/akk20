@@ -67,9 +67,10 @@
     - [x] Typescript
     - [x] React.js
     - [x] Node.js
+    - [ ] Next.js (version 13)
     - [ ] Three.js
 - [ ] Django
-- [ ] Flask
+- [x] Flask
 - [ ] FastAPI
 - [x] LAMP stack development
     - [x] Linux
@@ -78,12 +79,14 @@
     - [x] PHP
 - [x] MERN stack development (MySQL)
     - [x] MySQL
-    - [x] Express  
+    - [x] Express
     - [x] React
     - [x] Node
 - [ ] Other
     - [x] HTML
     - [x] CSS
+    - [X] Sass CSS
+    - [ ] TailwindCSS
     - [ ] Rust
     - [ ] Ruby
     - [ ] .NET
