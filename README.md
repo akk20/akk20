@@ -86,7 +86,7 @@
     - [x] HTML
     - [x] CSS
     - [X] Sass CSS
-    - [ ] TailwindCSS
+    - [x] TailwindCSS
     - [ ] Rust
     - [ ] Ruby
     - [ ] .NET
