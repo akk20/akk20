@@ -11,7 +11,7 @@
 📚 Major: [B.S. Computer Science](https://www.highpoint.edu/computerscience/) [(Cybersecurity Concentration)](https://www.ibm.com/topics/cybersecurity)  
 🎮 Favorite Game: [Battlefield 4](https://www.ea.com/games/battlefield/battlefield-4) [(Playstation)](https://www.playstation.com/en-us/)
 
-## 📜 Languarges/IDEs/Frameworks I'm Familar With
+## 📜 Languages/IDEs/Frameworks I'm Familar With
 [![Markdown clickable image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white "C++")](https://en.wikipedia.org/wiki/C%2B%2B)
 [![Markdown clickable image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E "JavaScript")](https://www.javascript.com/)
 [![Markdown clickable image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white "TypeScript")](https://www.typescriptlang.org/)
